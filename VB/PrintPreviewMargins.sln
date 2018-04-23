@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PrintPreviewMargins", "PrintPreviewMargins.vbproj", "{93E693FA-EAC2-4B37-BA2B-C05B41F476D9}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E693FA-EAC2-4B37-BA2B-C05B41F476D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E693FA-EAC2-4B37-BA2B-C05B41F476D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E693FA-EAC2-4B37-BA2B-C05B41F476D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E693FA-EAC2-4B37-BA2B-C05B41F476D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
